@@ -1,7 +1,7 @@
 # 🏛️ Yemen National Arts & Global Theater City (YAGTC)
 
 <p align="center">
-  <img src="./YAGTC_Official_Logo_png" alt="YAGTC Official Logo" width="450" type="image/png"/>
+  <img src="./YAGTC_png" alt="YAGTC" width="450" type="image/png"/>
 </p>
 
 ## 📜 وثيقة إثبات الملكية الفكرية والريادية الحصرية للمشروع
