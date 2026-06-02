@@ -29,7 +29,7 @@
 > خضوعاً لمعايير الحوكمة المالية والمؤسسية الصارمة للمشروع، لا يتم منح صلاحية الوصول (Access Grant) إلى المستودع الرقمي المشفر والمغلق الخاص بالمخططات الإنشائية وجداول الكميات (BOQ) والدراسات الصوتية والجيوتقنية التفصيلية إلا للصناديق الاستثمارية، المؤسسات التنموية الدولية، والمكاتب الاستشارية المعتمدة، وذلك عبر تتبع الخطوات التالية:
 > 1. **تقديم طلب رسمي:** إرسال رسالة إبداء اهتمام مبدئية (Expression of Interest - EoI) أو خطاب نوايا (LOI) عبر البريد الإلكتروني الرسمي للمطور الرئيسي للمشروع.
 > 2. **توقيع اتفاقية الـ NDA:** توقيع اتفاقية حفظ السرية وعدم الإفصاح المعتمدة دولياً والمودعة في المجلد القانوني للمشروع (`01_Sovereign_&_Legal/NDA_Standard_Contract.md`).
-> 3. **منح صلاحية الوصول:** يتم إصدار مفتاح وصول رقمي مؤقت وخاضع للرقابة (Audited Private Access) عبر GitHub لصالح الفريق الفني للصندوق المستثمر لإجراء الفحص النافي للجهالة (Due Diligence).
+> 3. **منح صلاحية الوصول:** يتم إصدار مفتاح وصول رقمي مؤقت وخاضع للرقابة (Audited Private Access) عبر GitHub لصالح الفريق الفني للصناديق المستثمره لإجراء الفحص النافي للجهالة (Due Diligence).
 
 ### 🇬🇧 In English:
 > **Sovereign & Investment Notice:** In strict compliance with the international **Apache License 2.0** and to safeguard the exclusive intellectual property rights of the architectural patent (Futuristic Authenticity), this public repository displays only the master plans, general layouts, and 3D architectural renders for initial evaluation and high-level review.
