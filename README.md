@@ -4,7 +4,7 @@
   <img src="./YAGTC" alt="YAGTC" width="450" type="image/png"/>
 </p>
 
-*Visual Guide:*
+<p align="center">
       [📷 YAGTC ](YAGTC.png)
 
 
