@@ -1,7 +1,7 @@
 # 🏛️ Yemen National Arts & Global Theater City (YAGTC)
 
 <p align="center">
-  <img src="./1.png" alt="1" width="1254" height="1254"/>
+  <img src="./YAGTC.png" alt="YAGTC" width="1254" height="1254"/>
 </p>
 
 
