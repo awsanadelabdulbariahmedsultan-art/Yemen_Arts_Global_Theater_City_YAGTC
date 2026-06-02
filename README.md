@@ -1,7 +1,7 @@
 # 🏛️ Yemen National Arts & Global Theater City (YAGTC)
 
 <p align="center">
-  <img src="./YAGTC.png" alt="YAGTC" width="1254" height="1254"/>
+  <img src="./YAGTC 2.png" alt="YAGTC" width="1254" height="1254"/>
 </p>
 
 
@@ -16,7 +16,29 @@
 ---
 
 ## 📋 ملخص العرض التنفيذي (Executive Summary)
-تُعد "المدينة الوطنية اليمنية للفنون والمسرح العالمي" أول وأضخم مشروع بنية تحتية ثقافية تنموية من نوعها في المنطقة، تهدف إلى إعادة صياغة الاقتصاد الإبداعي في الجمهورية اليمنية. لا يقتصر المشروع على كونه صرحاً ثقافياً, بل هو حاضنة استثمارية متكاملة مصممة لتوفير أكثر من 5,000 فرصة عمل مباشرة وغير مباشرة للشباب، وصون التراث الإنساني اللامادي، ودمج أصالة الفن المعماري اليمني (الطين والحجر) بالهندسة المعمارية الزجاجية المستقبلية (الأصالة المستقبلية). يرتكز المشروع على ميزانية تقديرية بالحد الأدنى تبلغ **120,000,000\$ دولار أمريكي**، وحوكمة مالية مشددة خالية من البيروقراطية تعتمد على نظام النمذجة خماسية الأبعاد (5D BIM) وحساب الضمان المشترك لضمان سرعة تنفيذ قياسية (9-12 شهراً) واستدامة تشغيلية ذاتية كاملة.
+تُعد "المدينة الوطنية اليمنية للفنون والمسرح العالمي" أول وأضخم مشروع بنية تحتية ثقافية تنموية من نوعها في المنطقة، تهدف إلى إعادة صياغة الاقتصاد الإبداعي في الجمهورية اليمنية. لا يقتصر المشروع على كونه صرحاً ثقافياً، بل هو حاضنة استثمارية متكاملة مصممة لتوفير أكثر من 5,000 فرصة عمل مباشرة وغير مباشرة للشباب، وصون التراث الإنساني اللامادي، ودمج أصالة الفن المعماري اليمني (الطين والحجر) بالهندسة المعمارية الزجاجية المستقبلية (الأصالة المستقبلية). يرتكز المشروع على ميزانية تقديرية بالحد الأدنى تبلغ **120,000,000\$ دولار أمريكي**، وحوكمة مالية مشددة خالية من البيروقراطية تعتمد على نظام النمذجة خماسية الأبعاد (5D BIM) وحساب الضمان المشترك لضمان سرعة تنفيذ قياسية (9-12 شهراً) واستدامة تشغيلية ذاتية كاملة.
+
+---
+
+## 🛡️ الحوكمة القانونية وبروتوكول حماية البيانات الهندسية / Legal Governance & Engineering Data Protection
+
+### 📄 باللغة العربية:
+> **تنويه سيادي واستثماري هام:** تماشياً مع معايير رخصة **Apache License 2.0** الدولية، وحفاظاً على الحقوق الحصرية لبراءة الاختراع المعمارية ونموذج الملكية الفكرية المبتكر (الأصالة المستقبلية)، فإن هذا المستودع العام يعرض فقط (المخططات العامة، المخطط الرئيسي، والمناظير البصرية ثلاثية الأبعاد) لأغراض التقييم المبدئي والدراسات العامة.
+> 
+> **آلية طلب الاطلاع على المخططات الإنشائية والتفصيلية الكاملة ونماذج الـ 5D BIM:**
+> خضوعاً لمعايير الحوكمة المالية والمؤسسية الصارمة للمشروع، لا يتم منح صلاحية الوصول (Access Grant) إلى المستودع الرقمي المشفر والمغلق الخاص بالمخططات الإنشائية وجداول الكميات (BOQ) والدراسات الصوتية والجيوتقنية التفصيلية إلا للصناديق الاستثمارية، المؤسسات التنموية الدولية، والمكاتب الاستشارية المعتمدة، وذلك عبر تتبع الخطوات التالية:
+> 1. **تقديم طلب رسمي:** إرسال رسالة إبداء اهتمام مبدئية (Expression of Interest - EoI) أو خطاب نوايا (LOI) عبر البريد الإلكتروني الرسمي للمطور الرئيسي للمشروع.
+> 2. **توقيع اتفاقية الـ NDA:** توقيع اتفاقية حفظ السرية وعدم الإفصاح المعتمدة دولياً والمودعة في المجلد القانوني للمشروع (`01_Sovereign_&_Legal/NDA_Standard_Contract.md`).
+> 3. **منح صلاحية الوصول:** يتم إصدار مفتاح وصول رقمي مؤقت وخاضع للرقابة (Audited Private Access) عبر GitHub لصالح الفريق الفني للصندوق المستثمر لإجراء الفحص النافي للجهالة (Due Diligence).
+
+### 🇬🇧 In English:
+> **Sovereign & Investment Notice:** In strict compliance with the international **Apache License 2.0** and to safeguard the exclusive intellectual property rights of the architectural patent (Futuristic Authenticity), this public repository displays only the master plans, general layouts, and 3D architectural renders for initial evaluation and high-level review.
+> 
+> **Protocol for Accessing Full Structural Blueprints, Detailed Engineering & 5D BIM Models:**
+> Under the project’s rigorous financial and corporate governance framework, access to the private, encrypted repository containing full structural designs, Bills of Quantities (BOQ), advanced acoustic configurations, and geotechnical analyses is strictly restricted. Sovereign wealth funds, international development banks, and accredited consulting firms may request access via the following pipeline:
+> 1. **Submission of EoI/LOI:** Submit a formal Expression of Interest (EoI) or Letter of Intent (LOI) to the Lead Developer’s official email.
+> 2. **NDA Execution:** Execute the internationally binding Non-Disclosure Agreement found in the legal folder (`01_Sovereign_&_Legal/NDA_Standard_Contract.md`).
+> 3. **Audited Access Grant:** Upon validation, an audited, time-bound private access key to the classified repository will be issued via GitHub to the investor's technical team for due diligence purposes.
 
 ---
 
@@ -33,9 +55,10 @@ Yemen_Arts_Global_Theater_City_YAGTC/
 │   └── NDA_Standard_Contract.md      # اتفاقية حفظ السرية وعدم الإفصاح للمكاتب الاستشارية
 │
 ├── 📁 02_Technical_&_Engineering/     # المجلد الهندسي والتقني المعياري
-│   ├── 5D_BIM_Cloud_Framework.md     # دليل تشغيل وأتمتة منصة المتابعة خماسية الأبعاد
-│   ├── Grand_Opera_Acoustics_RFP.md  # المتطلبات الفنية التخصصية وعزل قاعة الأوبرا
-│   └── Architectural_Design_Brief.md # براءة الاختراع المعمارية (الأصالة المستقبلية)
+│   ├── 📁 Renders_&_Concepts/        # المناظير البصرية ثلاثية الأبعاد والأصالة المستقبلية
+│   ├── 📁 Master_Plans_&_Elevations/  # المخططات العامة والإسقاطات الواجهية للمشروع
+│   ├── 📜 5D_BIM_Cloud_Framework.md   # دليل تشغيل وأتمتة منصة المتابعة خماسية الأبعاد
+│   └── 📜 Architectural_Design_Brief.md # براءة الاختراع المعمارية ونبذة التصميم
 │
 ├── 📁 03_Financial_&_Investment/      # المجلد المالي والتمكيني
 │   ├── Budget_Framework_120M.md      # إطار الميزانية التفصيلية المحددة بالحد الأدنى
