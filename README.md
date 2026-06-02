@@ -29,7 +29,7 @@
 > خضوعاً لمعايير الحوكمة المالية والمؤسسية الصارمة للمشروع، لا يتم منح صلاحية الوصول (Access Grant) إلى المستودع الرقمي المشفر والمغلق الخاص بالمخططات الإنشائية وجداول الكميات (BOQ) والدراسات الصوتية والجيوتقنية التفصيلية إلا للصناديق الاستثمارية، المؤسسات التنموية الدولية، والمكاتب الاستشارية المعتمدة، وذلك عبر تتبع الخطوات التالية:
 > 1. **تقديم طلب رسمي:** إرسال رسالة إبداء اهتمام مبدئية (Expression of Interest - EoI) أو خطاب نوايا (LOI) عبر البريد الإلكتروني الرسمي للمطور الرئيسي للمشروع.
 > 2. **توقيع اتفاقية الـ NDA:** توقيع اتفاقية حفظ السرية وعدم الإفصاح المعتمدة دولياً والمودعة في المجلد القانوني للمشروع (`01_Sovereign_&_Legal/NDA_Standard_Contract.md`).
-> 3. **منح صلاحية الوصول:** يتم إصدار مفتاح وصول رقمي مؤقت وخاضع للرقابة (Audited Private Access) عبر GitHub لصالح الفريق الفني للصناديق المستثمره لإجراء الفحص النافي للجهالة (Due Diligence).
+> 3. **منح صلاحية الوصول:** يتم إصدار مفتاح وصول رقمي مؤقت وخاضع للرقابة (Audited Private Access) عبر GitHub لصالح الفريق الفني للصندوق المستثمر لإجراء الفحص النافي للجهالة (Due Diligence).
 
 ### 🇬🇧 In English:
 > **Sovereign & Investment Notice:** In strict compliance with the international **Apache License 2.0** and to safeguard the exclusive intellectual property rights of the architectural patent (Futuristic Authenticity), this public repository displays only the master plans, general layouts, and 3D architectural renders for initial evaluation and high-level review.
@@ -41,45 +41,39 @@
 > 3. **Audited Access Grant:** Upon validation, an audited, time-bound private access key to the classified repository will be issued via GitHub to the investor's technical team for due diligence purposes.
 
 ---
+
+## 📂 شجرة هيكل مستودع المشروع (Repository Architecture)
+
+```text
 Yemen_Arts_Global_Theater_City_YAGTC/
 │
-├── 📜 LICENSE                        # رخصة Apache-2.0 لحماية الحقوق وبراءات الاختراع الدولية
-├── 📋 README.md                      # الواجهة التعريفية الرئيسية للمشروع (الملخص التنفيذي والحوكمة)
-├── 🌐 README_EN.md                   # النسخة الإنجليزية الكاملة من الواجهة التعريفية للصنايق الدولية
-├── 🤝 CONTRIBUTING.md                 # دليل ومعايير مساهمة الخبراء والمهندسين في المشروع
-└── 📣 CODE_OF_CONDUCT.md             # مدونة قواعد السلوك والتعامل المهني لفرق العمل
+├── 📜 LICENSE                        # رخصة Apache-2.0 لحماية الحقوق وبراءات الاختراع
+├── 📋 README.md                      # الملف الرئيسي لعرض ملخص المشروع والرؤية التنموية
 │
-├── 📁 01_Sovereign_&_Legal/           # 1. المجلد السيادي والقانوني وحماية الملكية
+├── 📁 01_Sovereign_&_Legal/           # المجلد السيادي والقانوني
 │   ├── MoU_Ministry_of_Culture.md    # مذكرة التفاهم المبدئية الموقعة مع وزارة الثقافة
-│   ├── NDA_Standard_Contract.md      # اتفاقية حفظ السرية وعدم الإفصاح المعتمدة (التي تم رفعها)
-│   ├── Intellectual_Property_Patent.md# وثائق براءة اختراع الهوية المعمارية (الأصالة المستقبلية)
-│   └── International_Arbitration.md  # بنود التحكيم الدولي وحماية الاستثمارات الأجنبية
+│   └── NDA_Standard_Contract.md      # اتفاقية حفظ السرية وعدم الإفصاح للمكاتب الاستشارية
 │
-├── 📁 02_Technical_&_Engineering/     # 2. المجلد الهندسي والتقني المعياري (النمذجة والإنشاء)
-│   ├── 📁 Renders_&_Concepts/        # الصور والمناظير البصرية ثلاثية الأبعاد والشعار
-│   ├── 📁 Master_Plans_&_Elevations/  # المخططات العامة، الإسقاطات الواجهية، والمساقط الأفقية
-│   ├── 📜 5D_BIM_Cloud_Framework.md   # دليل تشغيل وأتمتة منصة المتابعة خماسية الأبعاد (الكلف والوقت)
-│   ├── Grand_Opera_Acoustics_RFP.md  # المتطلبات الفنية وعزل الصوت والاهتزازات لقاعة الأوبرا
-│   ├── Architectural_Design_Brief.md # نبذة التصميم المعماري ودمج الطين والحجر بالزجاج المستقبلية
-│   └── IT_Infrastructure_4K_Live.md  # البنية التحتية السحابية لأنظمة البث الحي والشبكات
+├── 📁 02_Technical_&_Engineering/     # المجلد الهندسي والتقني المعياري
+│   ├── 📁 Renders_&_Concepts/        # المناظير البصرية ثلاثية الأبعاد والأصالة المستقبلية
+│   ├── 📁 Master_Plans_&_Elevations/  # المخططات العامة والإسقاطات الواجهية للمشروع
+│   ├── 📜 5D_BIM_Cloud_Framework.md   # دليل تشغيل وأتمتة منصة المتابعة خماسية الأبعاد
+│   └── 📜 Architectural_Design_Brief.md # براءة الاختراع المعمارية ونبذة التصميم
 │
-├── 📁 03_Financial_&_Investment/      # 3. المجلد المالي والتمكيني وعقلية المستثمر
-│   ├── INVESTMENT_PITCH.md           # ملف الجدوى الاستثمارية (العائد الداخلي IRR وفترة الاسترداد)
-│   ├── Budget_Framework_120M.md      # إطار الميزانية التفصيلية المحددة بالحد الأدنى (120 مليون$)
-│   ├── Commercial_BOT_Model.md       # نموذج بناء-تشغيل-تحويل (BOT) والقرية الاستثمارية والوقف
-│   ├── Financial_Contingency_Plan.md # خطة الطوارئ المالية وتأمين السيولة وإدارة التحوط والمخاطر
-│   └── Escrow_Account_Governance.md  # آلية حوكمة حساب الضمان المشترك لضمان شفافية الصرف
+├── 📁 03_Financial_&_Investment/      # المجلد المالي والتمكيني
+│   ├── Budget_Framework_120M.md      # إطار الميزانية التفصيلية المحددة بالحد الأدنى
+│   ├── Commercial_BOT_Model.md       # نموذج تشغيل وعقود القرية الاستثمارية والوقف
+│   └── Financial_Contingency_Plan.md # خطة الطوارئ المالية وتأمين السيولة والتحوط
 │
-├── 📁 04_Developmental_&_KPIs/        # 4. مجلد الأثر الاجتماعي والتنمية المستدامة (مخاطبة المانحين)
-│   ├── Y-KBEP_Knowledge_Transfer.md  # مشروع بند التمويل التمكيني الدائري (1%) والورش التدريبية
-│   ├── IsDB_Tender_KPIs_Table.md     # جدول مقاييس الأداء التنموي لقطاع التمكين الاقتصادي (البنك الإسلامي)
-│   ├── Job_Creation_SocioEconomic.md # دراسة أثر خلق 5,000 فرصة عمل وتشغيل الشباب والمرأة
-│   └── Satellite_Governorates_Plan.md# استراتيجية تمويل وتشغيل مراكز الفنون بالمحافظات (تعز، حضرموت، الحديدة)
+├── 📁 04_Developmental_&_KPIs/        # مجلد الأثر الاجتماعي والتنمية المستدامة
+│   ├── Y-KBEP_Knowledge_Transfer.md  # مشروع بند التمويل التمكيني الدائري (1%) والورش
+│   ├── IsDB_Tender_KPIs_Table.md     # جدول مقاييس الأداء التنموي لقطاع التمكين الاقتصادي
+│   └── Satellite_Governorates_Plan.md# استراتيجية تمويل وتشغيل مراكز الفنون بالمحافظات
 │
-└── 📁 05_Global_Media_Launch/         # 5. مجلد الإعلام والدبلوماسية الثقافية والتسويق
-    ├── Official_Press_Release_AR_EN.md# مسودة البيان الصحفي العالمي الرسمي باللغتين العربية والإنجليزية
-    ├── Media_Distribution_Strategy.md# خطة الممر الإعلامي الدولي وجذب المستثمرين الكبار والشركاء
-    └── International_Exhibitions.md   # خطة المشاركة في المحافل الثقافية الدولية والمعارض الهندسية
+└── 📁 05_Global_Media_Launch/         # مجلد الإعلام والدبلوماسية الثقافية
+    ├── Official_Press_Release_AR_EN.md# مسودة البيان الصحفي العالمي الرسمي باللغتين
+    └── Media_Distribution_Strategy.md# خطة الممر الإعلامي الدولي وجذب المستثمرين الكبار
+```
 
 ---
 
