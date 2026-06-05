@@ -31,9 +31,9 @@
 
 ### Yemeni Engineer Launches the First Sustainable National Arts & Global Theater City with a \$120M Budget
 
-**ADEN/SANAA, YEMEN** — Yemeni Engineer Awsan Adel Abdelbari Ahmed Sultan officially unveiled today the comprehensive master plan for the largest cultural and developmental infrastructure project in Yemen's history: **The Yemen National Arts & Global Theater City (YCGT)**, with an estimated initial budget of USD 120,000,000, backed by sovereign support and international development funds [Finance].
+**ADEN/SANAA, YEMEN** — Yemeni Engineer Awsan Adel Abdelbari Ahmed Sultan officially unveiled today the comprehensive master plan for the largest cultural and developmental infrastructure project in Yemen's history: **The Yemen National Arts & Global Theater City (YAGTC)**, with an estimated initial budget of USD 120,000,000, backed by sovereign support and international development funds [Finance].
 
-Spanning over 250,000 square meters, the project introduces a breakthrough architectural philosophy termed "Neo-Vernacular Futurism." This concept seamlessly bridges Yemen’s ancient mud-brick and stone heritage (inspired by the architecture of Sana'a and the historic skyscrapers of Shibam Hadramout) with futuristic structural glass engineering. The entire cultural hub is designed to be completely off-grid, powered 100% by an independent 5 MW solar field to protect sensitive acoustic systems from public grid fluctuations.
+Spanning over 250,000 square meters, the project introduces a breakthrough architectural philosophy termed "Neo-Vernacular Futurism." This concept seamlessly bridges Yemen’s ancient mud-brick and stone heritage (inspired by the architecture of Sana'a and the historic skyscrapers of Shibam Hadramout) with futuristic structural glass engineering. The entire cultural hub is designed to be completely off-grid, powered 100% by an independent 5 GW solar field to protect sensitive acoustic systems from public grid fluctuations.
 
 The mega-complex features a 2,800-seat Grand Opera House engineered for absolute natural acoustic excellence (utilizing a Box-in-Box sound isolation system), a 1,200-seat Folk Arts Theater, a 5,000-spectator open-air amphitheater, and a National Arts Academy integrated with a futuristic Digital Arts and Creative AI hub to digitally archive Yemen's endangered musical identity.
 
