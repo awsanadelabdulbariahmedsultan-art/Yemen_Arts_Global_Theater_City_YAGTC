@@ -19,7 +19,7 @@
 
 ويضم المجمع دار أوبرا عالمية تتسع لـ 2,800 مقعد مجهزة بأعلى تقنيات العزل الصوتي الطبيعي (Box-in-Box)، ومسرح بلقيس للفنون الشعبية (1,200 مقعد)، ومسرحاً مكشوفاً يتسع لـ 5,000 متفرج، بالإضافة إلى أكاديمية وطنية للفنون وحاضنة لتكنولوجيا الفنون الرقمية والذكاء الاصطناعي الإبداعي لتوثيق التراث الفني وحمايته من الاندثار.
 
-وأكد المهندس أوسان سلطان، المبتكر والمطور الرئيسي للمشروع، أن التنفيذ سيتم بنظام المسار الفائق المضغوط (Super Fast-Track) خلال 9 إلى 12 شهراً فقط من خلال نمذجة معلومات البناء خماسية الأبعاد (5D BIM) لضمان أتمتة الصرف والنزاهة المطلقة [Finance]، مشيراً إلى أن المشروع سيوفر أكثر من 5,000 فرصة عمل للشباب والحرفيين عبر شبكة مراكز الفنون الفرعية (في تعز وحضرموت والحديدة)، مع تحقيق استدامة مالية واكتفاء ذاتي كامل بقيمة \$1,740,000 دولار سنوياً تضخ لصالح صندوق وقفي مخصص للصيانة والتشغيل [Finance].
+وأكد المهندس أوسان عادل سلطان، المبتكر والمطور الرئيسي للمشروع، أن التنفيذ سيتم بنظام المسار الفائق المضغوط (Super Fast-Track) خلال 9 إلى 12 شهراً فقط من خلال نمذجة معلومات البناء خماسية الأبعاد (5D BIM) لضمان أتمتة الصرف والنزاهة المطلقة [Finance]، مشيراً إلى أن المشروع سيوفر أكثر من 5,000 فرصة عمل للشباب والحرفيين عبر شبكة مراكز الفنون الفرعية (في تعز وحضرموت والحديدة وصنعاء وصعدة وسقطرى)، مع تحقيق استدامة مالية واكتفاء ذاتي كامل بقيمة \$1,740,000 دولار سنوياً تضخ لصالح صندوق وقفي مخصص للصيانة والتشغيل [Finance].
 
 **انتهى**  
 
@@ -31,13 +31,13 @@
 
 ### Yemeni Engineer Launches the First Sustainable National Arts & Global Theater City with a \$120M Budget
 
-**ADEN/SANAA, YEMEN** — Yemeni Engineer Awsan Adel Abdelbari Ahmed Sultan officially unveiled today the comprehensive master plan for the largest cultural and developmental infrastructure project in Yemen's history: **The Yemen National Arts & Global Theater City (YAGTC)**, with an estimated initial budget of USD 120,000,000, backed by sovereign support and international development funds [Finance].
+**ADEN/SANAA, YEMEN** — Yemeni Engineer Awsan Adel Abdulbari Ahmed Sultan officially unveiled today the comprehensive master plan for the largest cultural and developmental infrastructure project in Yemen's history: **The Yemen National Arts & Global Theater City (YAGTC)**, with an estimated initial budget of USD 120,000,000, backed by sovereign support and international development funds [Finance].
 
 Spanning over 250,000 square meters, the project introduces a breakthrough architectural philosophy termed "Neo-Vernacular Futurism." This concept seamlessly bridges Yemen’s ancient mud-brick and stone heritage (inspired by the architecture of Sana'a and the historic skyscrapers of Shibam Hadramout) with futuristic structural glass engineering. The entire cultural hub is designed to be completely off-grid, powered 100% by an independent 5 GW solar field to protect sensitive acoustic systems from public grid fluctuations.
 
 The mega-complex features a 2,800-seat Grand Opera House engineered for absolute natural acoustic excellence (utilizing a Box-in-Box sound isolation system), a 1,200-seat Folk Arts Theater, a 5,000-spectator open-air amphitheater, and a National Arts Academy integrated with a futuristic Digital Arts and Creative AI hub to digitally archive Yemen's endangered musical identity.
 
-Eng. Awsan Sultan, the Founder and Principal Developer, stated that the project is executed under a highly compressed 9-to-12-month Super Fast-Track construction timeline using advanced 5D BIM cloud automation to sync engineering milestones directly with automated payments, bypassing bureaucratic delays [Finance]. The initiative is set to create over 5,000 direct and indirect jobs for Yemeni youth and artisans across various governorates through satellite art centers in Taiz, Hadramout, and Hodeidah. The complex ensures 100% economic self-sustainability, generating USD 1,740,000 annually via a commercial cultural village, fully channeled into an autonomous endowment fund for ongoing operations and maintenance [Finance].
+Eng. Awsan Adel Sultan, the Founder and Principal Developer, stated that the project is executed under a highly compressed 9-to-12-month Super Fast-Track construction timeline using advanced 5D BIM cloud automation to sync engineering milestones directly with automated payments, bypassing bureaucratic delays [Finance]. The initiative is set to create over 5,000 direct and indirect jobs for Yemeni youth and artisans across various governorates through satellite art centers in Taiz, Hadramout, Hodeidah, Sana'a, Sada'a, Socatra Island. The complex ensures 100% economic self-sustainability, generating USD 1,740,000 annually via a commercial cultural village, fully channeled into an autonomous endowment fund for ongoing operations and maintenance [Finance].
 
 **ENDS**  
 
@@ -47,4 +47,4 @@ Eng. Awsan Sultan, the Founder and Principal Developer, stated that the project 
 * **المكتب الإعلامي لرئيس مجلس الأمناء**: المهندس/ أوسان عادل عبدالباري أحمد سلطان
 * **هاتف التواصل الدولي**: 00967777852433  
 * **البريد الإلكتروني المعتمد**: awsan.sultan@gmail.com  
-* **المنصة الرقمية الرسمية**: ycgt-project.com
+* **المنصة الرقمية الرسمية**: .....-project.com
